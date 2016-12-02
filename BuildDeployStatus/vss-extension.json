@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
   "id": "build-deploy-status-dev",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "name": "Build and Deploy Status",
   "scopes": [ "vso.work", "vso.work_write" ],
   "description": "This is the extension file from the contributions guide example on GitHub.  Feel free to add or remove sections as you see fit.",
